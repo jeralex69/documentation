@@ -16,5 +16,7 @@ du serveur).
 Prérequis : carte de type LSI Megaraid et de deux disques durs identiques au minimum.
 
 Commande à executer pour créer un nouveau volume :
+
 .. code-block:: bash
-  root@rescue:~# storcli /c0 add vd type=r1 drives=252:0,252:1 
+
+  root@rescue:~# storcli /c0 add vd type=r1 drives=252:0,252:1
