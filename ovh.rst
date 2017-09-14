@@ -3,7 +3,7 @@ Installation, configuration des serveurs OVH
 =================================================
 
 Cette page liste les guides relatifs à l'installation et à la configuration de
-serveur appartenant à OVH .
+serveur appartenant à OVH.
 
 Configuration d'un volume RAID matériel
 =======================================
