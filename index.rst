@@ -2,7 +2,17 @@
 Référentiel de documentation technique
 ==================================================
 
-Serveur OVH :
-=============
+Table des matières
+--------
 
-- Configuration d'un volume RAID matériel `OVH\install_raid_materiel.rst`
+.. toctree::
+   :maxdepth: 2
+
+   ovh
+
+
+Indices and Tables
+==================
+
+* :ref:`genindex`
+* :ref:`search`
