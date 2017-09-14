@@ -8,7 +8,7 @@ serveur appartenant à OVH.
 Configuration d'un volume RAID matériel
 =======================================
 
-Sur un serveur fraÎchement commandé et déployé, les 2 disques durs ne sont pas
+Sur un serveur fraîchement commandé et déployé, les 2 disques durs ne sont pas
 en volume RAID sur la carte RAID matériel, seuls les 2 SSD sont aggrégés dans un
 volume RAID (volume créé lors de la première installation ou à la mise en place
 du serveur).
